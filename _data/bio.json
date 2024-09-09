@@ -2,7 +2,7 @@
   "basics": {
     "name": "Mhar Anthony Olipani",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://github.com/mharolipani.png",
     "email": "mhar@hawaii.edu",
     "phone": "N/A",
     "website": "https://mharolipani.github.io",
@@ -14,11 +14,11 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Programming" },
+    { "name": "Digitally Originated Graphic Systems" },
+    { "name": "General Unilateral Nuclear Driven Autonomous Mobile complex" },
+    { "name": "Collaborative Application Technology Solutions" },
+    { "name": "" }
   ],
   "skills": [
     {

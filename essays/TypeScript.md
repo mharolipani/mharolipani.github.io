@@ -9,9 +9,6 @@ labels:
   - Software Engineering
   - Learning
 ---
-
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
-
   It’s been a while since I’ve last coded thanks to life’s circumstances and distractions. Despite stressing myself out to speedrun the “Introduction to Javascript” on freeCodeCamp; so I could then rush through “W3Schools Typescript Tutorial”. The sense of familiarity it has to C++ and Java (being its namesake), allowed me to give myself a sigh of relief starting off my endeavors, as I retained common sense to double check semicolons and curly braces. 
   Typescript, as I've learned, makes it easier to double-check errors within the code before reformatting back into Javascript, a feature that the previous languages taught to me employed through try/catch statements that one needed to remember to implement for each Class and Function. ES6 on the other hand, I’ve only given the bare minimum of attention to at the moment so I can’t fully recall any of the features it tried to teach me as I rushed to finish that part of our E07a assignment. 
   As I regard myself as a novice programmer, I doubt I yet possess the proper thought processes of a Software Engineer. My knowledge of Javascript is so bare, I can’t say I know if Typescript executes its purpose dutifully since I never experienced the woes of Javascript in its heyday. I was told what it was designed to do, and was shown evidence in class. Without extensive use of the tool myself, I can’t really say what I think about it other than it just works. 

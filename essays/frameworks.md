@@ -16,8 +16,8 @@ labels:
 The creation of the transistor, which allowed the miniaturization of computers, took less time than mankind discovering the capability to destroy itself. Though it can be frustrating to keep up with the newest and latest fads, technology is developing at a rapid pace. As the Bull Moose, Teddy Roosevelt, said himself, “Nothing in the world is worth having or worth doing unless it means effort, pain, difficulty.” While we Computer Science majors don’t have the luxury of creating a world-ending weapon like the atom bomb, that credit goes to Oppenheimer, at least we can code fun and creative webpages thanks to UI Frameworks.
 
 ## My experience with Bootstrap 5
-<img width="50%" style="display: block; margin: 0 auto 10px;" src="../img/replica.png">
-<img width="50%" style="display: block; margin: 0 auto 10px;" src="../img/original.png">
+<img width="50%" src="../img/replica.png">
+<img width="50%" src="../img/original.png">
 
 Above is the image of my rushed attempt at recreating the website of Leeward Community College, where I’ve recently completed my associate's degree. Despite there being very notable differences such as the size of buttons, positioning of the dropdown buttons, and the padding on the menus, it looks passable enough. Of course, I couldn’t have achieved this replication with HTML and CSS alone. Bootstrap 5 was the UI Framework used to make this cardboard cutout of a webpage possible.
 

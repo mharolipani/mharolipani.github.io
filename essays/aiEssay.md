@@ -14,6 +14,11 @@ labels:
   - Personal Experience
 ---
 
+<p align="center">
+  <img src="img/ai.jpg" width="500px" alt="AI Image">
+</p>
+
+
 ## Introduction
 
 The one thing Artificial Intelligence (AI) should be seen first and foremost as a tool for learning and secondly as an assistant, insert here Jarvis or Cortana (think Halo, not Microsoft’s failed version). Pre-installed with my laptop came Copilot – “Microsoft Copilot: Your AI companion”, which I was initially hesitant to use as I felt to do so would accept that I lacked any ability to work in the field of Computer Science, a mistake I made despite not having coded for a while. I spent the first week couple of weeks going through the class introduction materials, googling, and viewing stack overflow posts, which took a lot of time and what answers I could try to apply would often just end up with my code returning errors. So eventually I began to use Copilot. I could give it just about any topic related to Software Engineering, ask for help with my code, or if I needed some quick information about a history topic for my philosophy course, it could pull that information if it wasn’t copyrighted.

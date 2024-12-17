@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI in Education: A Personal Journey"
+title: "Microsoft Copilot: My AI Companion"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-16
 published: true
@@ -21,8 +21,6 @@ labels:
 ## I. Introduction
 
 The one thing Artificial Intelligence (AI) should be seen first and foremost as a tool for learning and secondly as an assistant, insert here Jarvis or Cortana (think Halo, not Microsoft’s failed version). Pre-installed with my laptop came Copilot – “Microsoft Copilot: Your AI companion”, which I was initially hesitant to use as I felt to do so would accept that I lacked any ability to work in the field of Computer Science, a mistake I made despite not having coded for a while. I spent the first week couple of weeks going through the class introduction materials, googling, and viewing stack overflow posts, which took a lot of time and what answers I could try to apply would often just end up with my code returning errors.  So eventually I began to use Copilot. I could give it just about any topic related to Software Engineering, ask for help with my code, or if I needed some quick information about a history topic for my philosophy course, it could pull that information if it wasn’t copyrighted. 
-
-## II. Personal Experience with AI:
 
 ## II. Personal Experience with AI:
 
@@ -84,24 +82,24 @@ The one thing Artificial Intelligence (AI) should be seen first and foremost as 
 
 ## III. Impact on Learning and Understanding:
 
-I was never a good student because I had a hard time comprehending subjects, I barely developed any actual skills academically, and my problem-solving abilities were nonexistent. Or so I thought, because using AI I think is what helped me push on. I used Copilot to assist me in completing my assignments on time but the solutions it gave came with the right number of issues that at times I still needed to be able to solve the problems myself. I also knew at times that it was making the solutions more complicated than needed to be so going forward I need to work on progressing my skills as a programmer. 
+Throughout my academic journey, I often struggled with comprehending subjects and developing tangible skills, which left me feeling inadequate as a student. However, using AI, particularly Copilot, became a turning point for me. It assisted me in completing my assignments on time while presenting challenges that compelled me to enhance my problem-solving abilities. Although Copilot sometimes produced complex solutions that necessitated my intervention, this process ultimately fostered my growth as a programmer. Moving forward, I am committed to advancing my skills independently.
 
 ## IV. Practical Applications:
 
-Recently, I found out that there’s a version of Minecraft that’s completely AI generated. The creators fed an AI many images of Minecraft and it’s playable, to a degree. The experience is exactly what a dreaming feels like as the AI can’t exactly remember what its landscape changes as the player was there so turns their head around. I think that this simple thing is an example of the issues that many developers must deal with as they try to develop more advanced artificial intelligence. 
+I recently discovered an intriguing application of AI in a version of Minecraft that's entirely AI-generated. The developers trained an AI model with numerous images of Minecraft, creating a playable version, albeit with some limitations. This AI-generated world mimics the dream-like experience where the landscape changes unpredictably, reflecting the ongoing challenges developers face in perfecting advanced AI systems.
 
 ## V. Challenges and Opportunities:
 
-As we moved from basic Typescript onto HTML, then REACT, onto Bootstrap5, and then Nextjs, Copilot demonstrated that it has a vast database of knowledge and can code in most languages. Even though I heavily relied on Copilot, I relied more on my own logic to decide if it properly implemented functionalities I was looking for on my programs. As far as further integration goes, I’m not sure as I don’t recall there being a limit on what we could or couldn’t have used AI for in our assignments if we stated its use. When paired with the problems I had with AI, future software engineer prospects will realize that they still need to rely on themselves to effectively complete assignments.
+Transitioning through various programming languages and frameworks—from basic Typescript to HTML, REACT, Bootstrap5, and Nextjs—Copilot showcased its extensive knowledge and adaptability. While I heavily relied on Copilot, my logical reasoning played a crucial role in validating its implementations. The integration of AI in my assignments was not restricted, provided we acknowledged its use. Despite AI's assistance, future software engineers will continue to rely on their ingenuity and problem-solving skills to succeed.
 
 ## VI. Comparative Analysis:
 
-The last ICS course I’ve taken was 212 back in 2022 over at Leeward Community College. It was an online course, but I didn’t make use of AI in that class. I relied on traditional methods such as watching lectures, taking notes, class discussions, and viewing various resources. In contrast to my workflow this semester, it was mostly asking AI to assist me with code, finding me resources and their sources, which felt like a responsive and personalized learning experience. The problem is the overuse and the reliance on an AI, but I think a student just needs to get the right amount of experience of both so they can make the most from their learning experiences.
+In my last ICS course (ICS 212) at Leeward Community College in 2022, I relied on conventional learning methods such as lectures, note-taking, class discussions, and various resources. This semester's approach differed significantly as I frequently sought AI assistance for coding and resource identification, resulting in a more responsive and personalized learning experience. While overreliance on AI poses challenges, balancing traditional and AI-enhanced learning methods can maximize educational outcomes.
 
 ## VII. Future Considerations:
 
-The use of AI will most likely increase going forward. AI has significantly helped me expand my programming knowledge, showcasing its potential in software engineering education. Despite occasional errors in code generation, I think it’s more useful to have AI available than to be without. While AI with obviously get a lot “smarter” and many of the issues I faced may not be experienced in the future, I think what really needs to be emphasized is that at the end of the day it’s the user of the AI that’s creating their projects. Software Engineers or anyone interested in writing code needs to know how it properly works in order to keep up and to be effective problem solvers.
+The use of AI in education and software engineering is poised to grow. AI has been instrumental in expanding my programming knowledge, despite occasional errors in code generation. The continuous advancement of AI promises to address these errors, emphasizing the importance of user understanding in creating effective solutions. Software engineers and aspiring coders must grasp the fundamentals to remain effective problem solvers in an AI-driven landscape.
 
 ## VIII. Conclusion:
 
-So there it is, all my thoughts, feelings, and struggles of having finally given in to using artificial intelligence for ICS 314 this semester. Honestly, before this course, I was so delusional thinking that I didn’t need to use AI, but I don’t regret having allowed myself to use it to the extent that I have. Like I said earlier, having the proper balance between traditional learning methods and AI-enhanced methods I think are really crucial, maybe not for others but I think I need to have that for myself. As a student and as a person, I’m behind many of my peers and I’m practically playing catch up while everyone’s playing chess. But hey I’m passing, and that’s not because of my level of intelligence but just how open I was to using a new tool that I was allowed to use and while I did rely on it, I relied on my own logic to make sure that my programs worked as intended. However, while I work on what I lack as a programmer Copilot is my AI companion.
+Reflecting on my journey with AI in ICS 314, I've realized that my initial reluctance was unfounded. Embracing AI has not only enabled me to keep up but also facilitated a balance between traditional and AI-assisted learning. Although I'm still catching up to my peers, I'm proud of my progress, which owes much to my willingness to leverage AI as a tool while applying my logic to ensure the functionality of my projects. Moving forward, Copilot remains an invaluable companion in my programming endeavors.

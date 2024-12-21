@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/.png
+image: ../img/week.png
 title: "Weekend Warrior"
 date: 2024
 published: true

@@ -14,7 +14,7 @@ summary: "A web application I developed with my group in ICS 314."
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100%; padding: 20px;">
-  <img src="images/WWLogo1.png" style="width: 300px; height: auto; box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.5); border-radius: 8px;" alt="Application Logo">
+  <img src="../img/WWLogo1.png" style="width: 300px; height: auto; box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.5); border-radius: 8px;" alt="Application Logo">
 </div>
 
 In the final 6 weeks of the ICS 314 Software Engineering course, we were given the task to group with fellow classmates and create a working web application to display the various SE concepts we've learned over the semester. We named our group System32 and the members were me, Nigel Arias, Min Jun Han, and Sean Hiroki Flynn. Together we set out to work on our project idea, "Weekend Warrrior".

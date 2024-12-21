@@ -14,6 +14,10 @@ labels:
 summary: "A program for displaying the connection between users via graphs"
 ---
 
+<p align="center">
+  <img src="../img/graph.png" width="100%" alt="Social Media Networks">
+</p>
+
 In this assignment, my group and I were tasked with analyzing social media networks by identifying interesting clusters of content, clusters of users, and directional trends in network usage. Our analysis included creating visual representations such as diagrams of the data and word clouds. We specifically focused on diagramming interesting users, creating a word cloud, and producing a report of trending posts. The diagram highlighted posts and users as nodes, connected by directed edges, and emphasized important posts based on metrics like views and comments. The word cloud visually represented the most frequently used words in posts, allowing for keyword filtering and user attribute-based restrictions. Lastly, the report highlighted trending posts gaining attention at the greatest rate, using efficient data structures for real-time analysis.
 
 While my other two group mates took on the word cloud and the report of trending posts, I worked on creating the diagram for interesting users. With so many posts on social media apps, it can be hard for the average user to keep up to date. We created a diagram that highlights important posts based on views and comments, using Breadth-First Search (BFS) to systematically traverse and process all nodes in the network. BFS is ideal because it ensures that all nodes, representing users and their posts, are processed efficiently.

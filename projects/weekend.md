@@ -45,3 +45,13 @@ Here are some images:
 
 ## Contributions
 On this project, I created the landing page, "Activities" page, the "Contact & Support" w/ Safety Reminders on the footer, gave users the ability to create their activities and post them, and built off of the existing account creation feature from the nextjs-application-template. This was a great experience to have, as while I think I was able to carry my weight in the team by getting us started on some of our features, it came with issues that I wasn't able to figure out on my own or that I wasn't able to due to my focus being towards other assignments. What a way to end this course.
+
+If you'd like to know more about our project:
+here's the link to our github page where you can view our work flow on the project
+https://github.com/weekend-warrior-uhm/weekend-warrior-uhm.github.io
+
+our project overview page also accesible from the link above:
+weekend-warrior-uhm.github.io/
+
+and finally our deployment of the project on vercel where you can check it out:
+https://weekend-warrior-code-sigma.vercel.app/

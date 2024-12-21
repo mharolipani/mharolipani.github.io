@@ -17,7 +17,7 @@ labels:
 ---
 
 <p align="center">
-  <img src="../img/ai.jpg" width="500px" alt="AI Image">
+  <img src="../img/Harold.png" width="500px" alt="AI Image">
 </p>
 
 ## Introduction

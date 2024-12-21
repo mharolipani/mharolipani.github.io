@@ -26,10 +26,10 @@ To highlight important posts, we utilized a priority queue, allowing for efficie
 
 We used Python for this project and used libraries such as networkx and matplotlib. Here's some snippets of the code I worked on:
 
-intposts_analysis.py
-  from queue import PriorityQueue
+    intposts_analysis.py
+    from queue import PriorityQueue
 
-  def bfs(G, start_node):
+    def bfs(G, start_node):
     visited = set()
     queue = [start_node]
     order = []
@@ -43,7 +43,7 @@ intposts_analysis.py
     
     return order
 
-def find_important_posts(G, importance_criteria='comments', threshold=1):
+    def find_important_posts(G, importance_criteria='comments', threshold=1):
     pq = PriorityQueue()
 
     for node, data in G.nodes(data=True):
@@ -66,11 +66,11 @@ def find_important_posts(G, importance_criteria='comments', threshold=1):
     
     return important_posts
 
-intposts_visualization.py
-  import networkx as nx
-  import matplotlib.pyplot as plt
+    intposts_visualization.py
+    import networkx as nx
+    import matplotlib.pyplot as plt
 
-  def create_graph(network):
+    def create_graph(network):
     G = nx.DiGraph()
 
     for user in network.get_users():
@@ -84,7 +84,7 @@ intposts_visualization.py
 
     return G
 
-def draw_graph(G, important_posts):
+    def draw_graph(G, important_posts):
     pos = nx.spring_layout(G, k=0.3)  # Adjust the k parameter to spread out the nodes more
     node_labels = nx.get_node_attributes(G, 'label')
     

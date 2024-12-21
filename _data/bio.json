@@ -18,5 +18,40 @@
     { "name": "Digitally Originated Graphic Systems" },
     { "name": "General Unilateral Nuclear Drive Advanced Modules" },
     { "name": "Collaborative Application Technology Solutions" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Java", "Typescript", "Python", "CSS", "HTML" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "Git/GitHub", "Visual Studio Code" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2026)",
+      "studyType": "B.S.",
+      "startYear": "2024",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Radford Highschool",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startYear": "2014",
+      "endDate": "2018",
+      "courses": [
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
   ]
 }

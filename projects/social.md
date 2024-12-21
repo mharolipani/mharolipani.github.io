@@ -15,7 +15,7 @@ summary: "A program for displaying the connection between users via graphs"
 ---
 
 <p align="center">
-  <img src="../img/graph.png" width="100%" alt="Social Media Networks">
+  <img src="../img/graph.png" width="50%" alt="Social Media Networks">
 </p>
 
 In this assignment, my group and I were tasked with analyzing social media networks by identifying interesting clusters of content, clusters of users, and directional trends in network usage. Our analysis included creating visual representations such as diagrams of the data and word clouds. We specifically focused on diagramming interesting users, creating a word cloud, and producing a report of trending posts. The diagram highlighted posts and users as nodes, connected by directed edges, and emphasized important posts based on metrics like views and comments. The word cloud visually represented the most frequently used words in posts, allowing for keyword filtering and user attribute-based restrictions. Lastly, the report highlighted trending posts gaining attention at the greatest rate, using efficient data structures for real-time analysis.
@@ -26,7 +26,6 @@ To highlight important posts, we utilized a priority queue, allowing for efficie
 
 We used Python for this project and used libraries such as networkx and matplotlib. Here's some snippets of the code I worked on:
 
-```python
 # intposts_analysis.py
 from queue import PriorityQueue
 
@@ -67,6 +66,7 @@ def find_important_posts(G, importance_criteria='comments', threshold=1):
     
     return important_posts
 
+(codebox 2)
 # intposts_visualization.py
 import networkx as nx
 import matplotlib.pyplot as plt

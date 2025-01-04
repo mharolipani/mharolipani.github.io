@@ -16,18 +16,22 @@
   "interests": [
     { "name": "Programming" },
     { "name": "Cybersecurity" },
-    { "name": "Web/Software/Game Development" }
+    { "name": "Web/Software Development" },
     { "name": "Digitally Originated Graphic Systems" },
     { "name": "Collaborative Application Technology Solutions" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Java", "Typescript", "Python", "CSS", "HTML" ]
+      "keywords": [ "C", "C++", "Java", "Typescript", "Python", "CSS", "HTML" ]
     },
     {
       "name": "Toolsets/OS",
       "keywords": [ "Windows", "Git/GitHub", "Visual Studio Code" ]
+    },
+    {
+      "name": "Microsoft Office Software",
+      "keywords": [ "Word/Excel (Basic-Intermediate)" ]
     }
   ],
   "education": [
@@ -38,19 +42,14 @@
       "startYear": "Spring 2024",
       "endDate": "Present",
       "courses": [
-      ],
+      ]
+    },
+    {
       "institution": "Leeward Community College, Pearl City, HI",
       "area": "ASNS Information and Computer Science",
       "studyType": "A.S.",
-      "startYear": "Fall 2020",
+      "startYear": "Spring 2020",
       "endDate": "Spring 2024",
-      "courses": [
-      ],
-      "institution": "Radford Highschool, Honolulu, HI",
-      "area": "",
-      "studyType": "High School Diploma",
-      "startYear": "Fall 2014",
-      "endDate": "Spring 2018",
       "courses": [
       ]
     },
@@ -58,15 +57,15 @@
       "institution": "Radford Highschool",
       "area": "",
       "studyType": "High School Diploma",
-      "startYear": "2014",
-      "endDate": "2018",
+      "startYear": "Fall 2014",
+      "endDate": "Spring 2018",
       "courses": [
       ]
     }
   ],
   "references": [
     {
-      "name": "Unavailable"
+      "name": "Available upon request"
     }
   ]
 }

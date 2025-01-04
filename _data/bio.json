@@ -4,13 +4,13 @@
     "label": "Student",
     "picture": "https://github.com/mharolipani.png",
     "email": "mhar@hawaii.edu",
-    "phone": "N/A",
+    "phone": "(808) 777-0471",
     "website": "https://mharolipani.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2026.",
     "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mharolipani", "url": "http://github.com/mharolipani" },
-      { "network": "linkedin", "username": "Mhar Anthony Olipani", "url": "https://www.linkedin.com/in/mhar-anthony-olipani-004b8318a/" }
+      { "network": "GitHub", "username": "mharolipani", "url": "http://github.com/mharolipani" },
+      { "network": "LinkedIn", "username": "Mhar Anthony Olipani", "url": "https://www.linkedin.com/in/mhar-anthony-olipani-004b8318a/" }
     ]
   },
   "interests": [
@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Typescript", "Python", "CSS", "HTML" ]
+      "keywords": [ "C", "C++", "Java", "TypeScript", "Python", "CSS", "HTML", "Bootstrap 5", "Next.js" ]
     },
     {
       "name": "Toolsets/OS",
@@ -37,12 +37,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2026)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startYear": "Spring 2024",
       "endDate": "Present",
-      "courses": [
-      ]
+      "summary": "Expected graduation: Spring 2026"
     },
     {
       "institution": "Leeward Community College, Pearl City, HI",
@@ -50,17 +49,15 @@
       "studyType": "A.S.",
       "startYear": "Spring 2020",
       "endDate": "Spring 2024",
-      "courses": [
-      ]
+      "summary": ""
     },
     {
-      "institution": "Radford Highschool",
+      "institution": "Radford High School",
       "area": "",
       "studyType": "High School Diploma",
       "startYear": "Fall 2014",
       "endDate": "Spring 2018",
-      "courses": [
-      ]
+      "summary": ""
     }
   ],
   "work": [
@@ -70,7 +67,7 @@
       "website": "",
       "startDate": "2024",
       "endDate": "Present",
-      "summary": "Efficiently handle customer transactions and provide excellent customer service",
+      "summary": "Efficiently handle customer transactions and provide excellent customer service.",
       "highlights": [
         "Efficiently processed transactions and provided friendly customer service.",
         "Assisted customers with product inquiries, enhancing their shopping experience.",
@@ -103,7 +100,6 @@
         "Ensured inventory accuracy and availability of products by regularly restocking and organizing merchandise."
       ]
     }
-    
   ],
   "references": [
     {

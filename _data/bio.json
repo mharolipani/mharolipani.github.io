@@ -15,8 +15,9 @@
   },
   "interests": [
     { "name": "Programming" },
+    { "name": "Cybersecurity" },
+    { "name": "Web/Software/Game Development" }
     { "name": "Digitally Originated Graphic Systems" },
-    { "name": "General Unilateral Nuclear Drive Advanced Modules" },
     { "name": "Collaborative Application Technology Solutions" }
   ],
   "skills": [
@@ -34,8 +35,22 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2026)",
       "studyType": "B.S.",
-      "startYear": "2024",
+      "startYear": "Spring 2024",
       "endDate": "Present",
+      "courses": [
+      ],
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "ASNS Information and Computer Science",
+      "studyType": "A.S.",
+      "startYear": "Fall 2020",
+      "endDate": "Spring 2024",
+      "courses": [
+      ],
+      "institution": "Radford Highschool, Honolulu, HI",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startYear": "Fall 2014",
+      "endDate": "Spring 2018",
       "courses": [
       ]
     },
@@ -51,7 +66,7 @@
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": "Unavailable"
     }
   ]
 }

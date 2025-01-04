@@ -39,7 +39,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science",
       "studyType": "B.S.",
-      "startYear": "Spring 2024",
+      "startYear": "2024",
       "endDate": "Present",
       "summary": "Expected graduation: Spring 2026"
     },
@@ -47,16 +47,16 @@
       "institution": "Leeward Community College, Pearl City, HI",
       "area": "ASNS Information and Computer Science",
       "studyType": "A.S.",
-      "startYear": "Spring 2020",
-      "endDate": "Spring 2024",
+      "startYear": "2020",
+      "endDate": "2024",
       "summary": ""
     },
     {
       "institution": "Radford High School",
       "area": "",
       "studyType": "High School Diploma",
-      "startYear": "Fall 2014",
-      "endDate": "Spring 2018",
+      "startYear": "2014",
+      "endDate": "2018",
       "summary": ""
     }
   ],

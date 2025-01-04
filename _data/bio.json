@@ -63,6 +63,48 @@
       ]
     }
   ],
+  "work": [
+    {
+      "company": "Home Depot",
+      "position": "Cashier - D90",
+      "website": "",
+      "startDate": "2024",
+      "endDate": "Present",
+      "summary": "Efficiently handle customer transactions and provide excellent customer service",
+      "highlights": [
+        "Efficiently processed transactions and provided friendly customer service.",
+        "Assisted customers with product inquiries, enhancing their shopping experience.",
+        "Ensured the checkout area was clean and organized."
+      ]
+    },
+    {
+      "company": "Turo",
+      "position": "Car Rental Manager",
+      "website": "",
+      "startDate": "2022",
+      "endDate": "2024",
+      "summary": "Managed the operations of a car rental business on the Turo platform.",
+      "highlights": [
+        "Listed and maintained car rental offerings on the Turo app, including pricing and additional amenities.",
+        "Handled customer bookings, coordinated pick-up and drop-off logistics, and provided excellent customer service.",
+        "Managed vehicle cleanliness and maintenance to ensure a smooth rental experience."
+      ]
+    },
+    {
+      "company": "Target",
+      "position": "General Merchandise Expert - Home Goods",
+      "website": "",
+      "startDate": "2019",
+      "endDate": "2021",
+      "summary": "Managed product presentation and customer assistance in the Home Goods department.",
+      "highlights": [
+        "Maintained a well-organized and visually appealing Home Goods section, including bedsheets, pillows, kids' bedrooms, towels, and more.",
+        "Provided knowledgeable customer service, assisting shoppers with product inquiries and recommendations.",
+        "Ensured inventory accuracy and availability of products by regularly restocking and organizing merchandise."
+      ]
+    }
+    
+  ],
   "references": [
     {
       "name": "Available upon request"
